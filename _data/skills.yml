@@ -1,12 +1,20 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+ko:
+  - skill: 개발 경험이 있는 언어
+    description: "**Java, Python, C**, C++, JavaScript, PHP"
+  
+  - skill: 진행한 프로젝트
+    description: "[깃허브](https://github.com/Orb-H)"
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+en:
+  # Organizational leadership
+  - skill: Organizational leadership
+    description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+  # Communications strategy
+  - skill: Communications strategy
+    description: Content and marketing strategy,
+
+  # Digital content development and creation
+  - skill: Digital content development and creation
+    description: Copy writing, graphic design, web design, front-end web development, print design

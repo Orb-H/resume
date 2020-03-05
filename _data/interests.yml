@@ -1,4 +1,12 @@
 # Interests
-- description: Human rights and world affairs
-- description: Music (baritone saxiphonist)
-- description: Linguistics
+ko:
+  - description: 게임
+  - description: 게임 개발
+  - description: 음악 감상
+  - description: 유튜브 시청
+
+en:
+  - description: Playing Games
+  - description: Game Development
+  - description: Listening to Musics
+  - description: Watching Youtube

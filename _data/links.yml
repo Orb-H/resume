@@ -1,5 +1,12 @@
 # links
-- url: "#"
-  description: Springfield Jazz Enthusiasts
-- url: "#"
-  description: Springfield Young Professionals
+ko:
+  - url: "https://soobak0313.wixsite.com/covalent"
+    description: Covalent 웹 페이지(옛 링크)
+  - url: "https://github.com/SKKU-VRAR"
+    description: VR/AR 동아리 깃허브
+
+en:
+  - url: "https://soobak0313.wixsite.com/covalent"
+    description: Covalent Webpage(Old)
+  - url: "https://github.com/SKKU-VRAR"
+    description: VR/AR Study Github

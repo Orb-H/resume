@@ -1,16 +1,34 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+ko:
+  - project: 자습실 좌석 예약 어플리케이션
+    role: 백엔드 개발
+    duration: 2017.03 &mdash; 2017.08
+    url: https://soobak0313.wixsite.com/covalent/coconuts
+    description: |
+      - 고등학교 때 자습실 신청을 보다 편하게, 그리고 미리 예약을 걸어둘 수 있는 어플리케이션을 개발했습니다.
+      - 서버 유지 및 개발을 하였으며, 어플리케이션의 백엔드를 개발했습니다.
+      - 몇몇 학생들에게 배포하였고, 나중에 이를 같은 역할을 하는 컴퓨터 프로그램으로 확장하였습니다.
+  
+  - project: 산·염기 적정 시뮬레이팅 프로그램
+    duration: 2016.08 &mdash; 2016.10
+    description: |
+      - 산·염기 적정 실험에서 산과 염기의 강도, 부피, 농도 값을 정해주면 그래프를 그려주는 JAVA 프로그램입니다.
+      - 개발보다는 수학적 계산이 주를 이루었고, 이를 정리하여 고등학교 졸업 논문으로 사용하였습니다.
 
-# Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
-  # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+en:
+  - project: Seat Reservation Application
+    role: Back-end Develop
+    duration: 2017.03 &mdash; 2017.08
+    url: https://soobak0313.wixsite.com/covalent/coconuts
+    description: |
+      - Developed an android application for convenience in making a reservation for study room in high school.
+      - Took a role of maintaining / developing server and developing backend for application.
+      - Distributed to some students and expanded to computer program with same functionality.
+  
+  - project: Acid-base Titration Simulator
+    duration: 2016.08 &mdash; 2016.10
+    description: |
+      - Developed a Java program which simulates acid-base titration using user-defined parameters.
+      - Solely planned, developed, and wrote a short paper about planning program and related calculations according to this.
