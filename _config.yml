@@ -1,8 +1,8 @@
 # Site settings
 title: "Jekyll Resume Template"
 description: "A resume template for Jekyll and GitHub Pages sites."
-url: "https://Orb-H.github.io/resume"
-baseurl: ""
+url: "https://Orb-H.github.io"
+baseurl: "/resume"
 
 # Build settings
 markdown: kramdown
