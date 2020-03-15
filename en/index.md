@@ -1,5 +1,5 @@
 ---
 layout: resume
-permalink: /en
+permalink: /en/
 lang: en
 ---

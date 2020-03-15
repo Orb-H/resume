@@ -1,5 +1,5 @@
 ---
 layout: resume
-permalink: /ko
+permalink: /ko/
 lang: ko
 ---
