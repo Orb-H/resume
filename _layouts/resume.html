@@ -20,7 +20,7 @@
         <h1 class="header-name" itemprop="name">{{ site.resume_name[page.lang] }}</h1>
 
         <div align=right>
-          <a href="{{ site.baseurl }}/ko/">한국어</a> / <a href="{{ site.baseurl }}/en/">English</a>
+          {% if page.lang == "ko" %}한국어{% else %}<a href="{{ site.baseurl }}/ko/">한국어</a>{% endif %} / {% if page.lang == "en" %}English{% else %}<a href="{{ site.baseurl }}/en/">English</a>{% endif %}
         </div>
 
         <!-- To display contact info here, change `display_header_contact_info` value in _config.yml to true -->
