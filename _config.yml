@@ -1,8 +1,8 @@
 # Site settings
 title: "Jekyll Resume Template"
 description: "A resume template for Jekyll and GitHub Pages sites."
-url: "https://Orb-H.github.io"
-baseurl: "/resume"
+url: "https://resume.orbithv.dev"
+baseurl: ""
 
 # Build settings
 markdown: kramdown
@@ -59,7 +59,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/jongryeol-han-5761991a0"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://orbithv.dev/"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
