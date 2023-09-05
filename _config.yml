@@ -17,7 +17,7 @@ resume_name:
   en: "Jongryeol Han"
 resume_title:
   ko: "성균관대학교 소프트웨어학과 학부생"
-  en: "Undergraduate in College of Computing, SungKyunKwan University"
+  en: "Undergraduate in Department of Computer Science and Engineering, SungKyunKwan University"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "orb.cov@gmail.com"
@@ -70,3 +70,6 @@ resume_theme:                   default
 # your Jekyll server when you edit this file. Changes
 # to _config.yml are only recognized when the server starts
 def_lang: ko
+
+host: "158.247.253.211"
+port: 14318
