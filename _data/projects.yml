@@ -2,6 +2,13 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 ko:
+  - project: 근무 생성기
+    duration: 2020.09 &mdash; 2021.12
+    description: |
+      - 군대에서 중대 내 인원들의 근무 불공정 문제를 해결하기 위해 엑셀을 활용해서 진행한 프로젝트입니다.
+      - 문제 상황을 분석하여 수학적 모델로 정의했고, 이를 해결하는 것을 목표로 삼았습니다.
+      - 기계학습 기법 중 하나인 유전 알고리즘을 일부 변형하여 엑셀에서 구현하였습니다.
+
   - project: 자습실 좌석 예약 어플리케이션
     role: 백엔드 개발
     duration: 2017.03 &mdash; 2017.08
@@ -18,6 +25,13 @@ ko:
       - 개발보다는 수학적 계산이 주를 이루었고, 이를 정리하여 고등학교 졸업 논문으로 사용하였습니다.
 
 en:
+  - project: Work Schedule Generator
+    duration: 2020.09 &mdash; 2021.12
+    description: |
+      - Developed an Excel file to solve work imbalance problem in company(army). (I was on military service then)
+      - Analyzed the problem and defined as a mathematical model, then set goal to solve this mathematical problem.
+      - Implemented partially-modified genetic algorithm on Excel.
+
   - project: Seat Reservation Application
     role: Back-end Develop
     duration: 2017.03 &mdash; 2017.08
