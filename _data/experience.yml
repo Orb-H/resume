@@ -6,14 +6,14 @@ ko:
     url: https://github.com/Orb-H/SKKU-Lambda-Coop
     summary: |
       - 학교에서 진행하는 산학협력프로젝트 중 하나로, 람다256 사의 블록체인 솔루션을 이용하여 교내에서 사용할 수 있는 암호화폐 시스템을 구축하였습니다.
-      - 서버 제작, 유지, 및 개발을 하였으며, 다른 백엔드 개발자들의 개발을 돕기도 했습니다.
+      - Google의 Firebase와 node.js를 활용한 서버 제작, 유지 및 개발을 진행하였습니다.
   
   - company: 개인 맞춤형 교통정보 앱 개발
     position: 안드로이드 개발
     duration: 2018.04 &mdash; 2018.11
     summary: |
-      - Google 사의 API를 이용하여 개인 맞춤형 교통 정보를 알려주는 안드로이드 어플리케이션을 개발했습니다.
-      - 안드로이드 개발 중에서 API를 이용하여 정보를 받아오고 처리하는 부분 위주로 개발했습니다.
+      - Google과 Naver의 API를 이용하여 개인 맞춤형 교통 정보를 알려주는 안드로이드 어플리케이션을 개발했습니다.
+      - 네이버 지도 API와 구글 헬스 API를 이용하여 정보를 받아오고 처리하는 부분 위주로 개발했습니다.
       - 8월부터 임시로 프로젝트 팀장을 맡았습니다.
 
 en:
@@ -23,12 +23,12 @@ en:
     url: https://github.com/Orb-H/SKKU-Lambda-Coop
     summary: |
       - Developed a token system working in school, using blockchain solution of Lambda 256.
-      - Took a role of constructing / maintaining / developing server, and managing members whose roles are back-end developers.
+      - Took a role of constructing / maintaining / developing server using Firebase, and managing members whose roles are back-end developers.
   
   - company: Project SPARK
     position: Android Developer
     duration: 2018.04 &mdash; 2018.11
     summary: |
-      - Developed an android application for offering personalized traffic information using Google API.
-      - Took a role of developer and focused on developing API-calling part.
-      - Took a role of temporary team leader from August and managed workflow of project.
+      - Developed an Android application for offering personalized traffic information using Google API and Naver API.
+      - Developed API-calling part which uses Naver Maps API and Google Health API.
+      - Took a role of temporary team leader from August.
